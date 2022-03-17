@@ -363,6 +363,7 @@ footer .detail{
     /* about */
 
     #about-section{
+        padding-top: 3rem;
         padding: 2rem;
         height: auto;
         padding-bottom: 50px;
