@@ -336,14 +336,23 @@ footer .detail{
         margin-top: 1.1rem;
     }
 
+    /* banner */
+
     #main-banner{
         height: 40vh;
         padding-top: 5vh;
-        padding-bottom: 10vh;
+        background-image: url('../img/bg-lobo-mobile.jpg');
+        background-size: 480px 520px;
     }
 
     #banner-info{
-        width: 60%;
+        border-radius: 10px;
+        font-size: 25px;
+        width: 40%;
+        font-weight: bold;
+        margin-right: auto;
+        margin-left: auto;
+        padding: 15px;
     }
     
     #banner-info p{
