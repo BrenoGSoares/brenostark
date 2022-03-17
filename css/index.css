@@ -339,7 +339,7 @@ footer .detail{
     /* banner */
 
     #main-banner{
-        height: 40vh;
+        height: 50vh;
         padding-top: 5vh;
         background-image: url('../img/bg-lobo-mobile.jpg');
         background-size: 480px 520px;
@@ -363,7 +363,6 @@ footer .detail{
     /* about */
 
     #about-section{
-        padding-top: 3rem;
         padding: 2rem;
         height: auto;
         padding-bottom: 50px;
